@@ -1,0 +1,15 @@
+{
+  "domain": "wiz",
+  "name": "WiZ Connected",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/wiz",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@nickburgin"
+  ],
+  "iot_class": "local_polling"
+}

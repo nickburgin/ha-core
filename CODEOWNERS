@@ -572,6 +572,7 @@ homeassistant/components/wiffi/* @mampfes
 homeassistant/components/wilight/* @leofig-rj
 homeassistant/components/wirelesstag/* @sergeymaysak
 homeassistant/components/withings/* @vangorra
+homeassistant/components/wiz/* @nickburgin
 homeassistant/components/wled/* @frenck
 homeassistant/components/wolflink/* @adamkrol93
 homeassistant/components/workday/* @fabaff
